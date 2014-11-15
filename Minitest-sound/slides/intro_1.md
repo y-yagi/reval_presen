@@ -1,3 +1,3 @@
 
-## "Miniest-sound"というgemについてご紹介します
+## "Minitest-sound"というgemについてご紹介します
 
