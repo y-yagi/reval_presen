@@ -1,10 +1,7 @@
 
-# Minitest-sound
+## Minitest-soundのご紹介
 
-From the terminal, pop in:
+@y-yagi
 
-  ```yo reveal:slide "Slide Title"```
+RubyHiroba 2014
 
-Available options:
-
- ```--markdown --attributes --notes```
