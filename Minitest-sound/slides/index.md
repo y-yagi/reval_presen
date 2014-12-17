@@ -3,5 +3,4 @@
 
 @y-yagi
 
-RubyHiroba 2014
 
